@@ -68,15 +68,19 @@ Pasar yang mencari solusi pendidikan digital dan permainan yang mendukung pembel
 
 # Core Direction
 **-Tema Colorfull**
+
 **-Memperbanyak Puzzle Hewan untuk dipecahkan**
 
 # Target Platform 🎮
 **Mobile 📱**
+
 **PC 💻**
 
 # Core Mechanic
 **-Menyusun alfabet-alfabet untuk menyusun nama hewan**
+
 **-Alfabet-alfabet keluar secara acak**
+
 **-Pemain akan mengambil angka yang sesuai untuk di tempatkan pada posisi alfabet yang benar**
 
 # Screenshots🌆
