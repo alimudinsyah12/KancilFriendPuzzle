@@ -7,10 +7,15 @@ Kancil's Friend Puzzle adalah sebuah game dimana pemain berperan sebagai seekor 
 # Project Scope🙋🏻‍♀️🙋🏻‍♂️:
 
 -**Game Designer🎮:**
+
 Bayu Ahmad Firdaus
+
 -**Game Programmer🖥️ :**
+
 Alimudinsyah Alrasyid
+
 -**Game Artist🎭:**
+
 Rizal Ardiansyah
 
 # Reference or Influence
