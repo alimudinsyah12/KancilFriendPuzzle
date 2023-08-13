@@ -85,7 +85,7 @@ Pasar yang mencari solusi pendidikan digital dan permainan yang mendukung pembel
 
 # Gallery View🌆
 ## Referensi Gameplay
-![1 rev image(https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/2d65fb2c-987e-4d63-baf7-990e5f70996c)
+![1 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/2d65fb2c-987e-4d63-baf7-990e5f70996c)
 
 ## Players
 ![player mode](https://user-images.githubusercontent.com/118440652/209903496-ddfc7b9c-bdb7-4e0a-b5a3-63d9ba32ace3.PNG)
