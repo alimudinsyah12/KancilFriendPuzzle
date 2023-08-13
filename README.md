@@ -87,13 +87,11 @@ Pasar yang mencari solusi pendidikan digital dan permainan yang mendukung pembel
 ## Referensi Gameplay
 ![1 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/2d65fb2c-987e-4d63-baf7-990e5f70996c)
 
-## Players
-![player mode](https://user-images.githubusercontent.com/118440652/209903496-ddfc7b9c-bdb7-4e0a-b5a3-63d9ba32ace3.PNG)
+## Referensi Art Style
+![2 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/853bb4d9-d50d-448b-8640-0aff651e6707)
 
-![player](https://user-images.githubusercontent.com/118440652/209903508-dc4b1c91-7b16-45b4-904d-f53d12fb4ec3.PNG)
-
-## Enemy
-![enemy](https://user-images.githubusercontent.com/118440652/209903688-8b4eae37-9373-440e-b765-19cb12a9d876.PNG)
+## Referensi Level Design
+![3 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/da5fc39a-e721-4496-8978-68b396e2974d)
 
 
 ## Gameplay
