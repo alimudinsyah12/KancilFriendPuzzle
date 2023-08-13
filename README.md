@@ -1,4 +1,4 @@
-# Kancil's Friend Puzzl
+# Kancil's Friend Puzzle
 
 # Game Overview 🌏
 Kancil's Friend Puzzle adalah sebuah game dimana pemain berperan sebagai seekor kancil yang ingin mengenal nama teman-temannya yang ada di hutan. Di dalam game ini pemain diharuskan untuk menebak nama hewan dalam bahasa inggris yang di tampilkan pada layar menggunakan huruf-huruf alfabet yang bergerak terbawa arus sungai. Huruf alfabet yang terbawa arus sungai akan berdatangan secara acak sehingga pemain harus teliti dalam memilih huruf alfabet yang tepat.
