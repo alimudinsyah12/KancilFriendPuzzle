@@ -1,5 +1,4 @@
-# Kancil's Friend Puzzle
-![mainmenu](https://user-images.githubusercontent.com/118440652/209903274-2b7b5ae6-e931-41a4-9912-4b90814af370.PNG)
+# Kancil's Friend Puzzl
 
 # Game Overview 🌏
 Kancil's Friend Puzzle adalah sebuah game dimana pemain berperan sebagai seekor kancil yang ingin mengenal nama teman-temannya yang ada di hutan. Di dalam game ini pemain diharuskan untuk menebak nama hewan dalam bahasa inggris yang di tampilkan pada layar menggunakan huruf-huruf alfabet yang bergerak terbawa arus sungai. Huruf alfabet yang terbawa arus sungai akan berdatangan secara acak sehingga pemain harus teliti dalam memilih huruf alfabet yang tepat.
@@ -94,8 +93,5 @@ Pasar yang mencari solusi pendidikan digital dan permainan yang mendukung pembel
 ![3 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/da5fc39a-e721-4496-8978-68b396e2974d)
 
 
-## Gameplay
-![GamePlayMP](https://user-images.githubusercontent.com/118440652/209903557-696f2d0f-9a2a-466d-9644-708d6309448a.PNG)
-
-## Game Over
-![gameoversp](https://user-images.githubusercontent.com/118440652/209904020-55bd90f0-67db-4035-8f1b-5d2b483cea9a.PNG)
+## Referensi Character
+![4 Ref image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/5638368a-47fe-4ff6-9e2f-d8898d82d608)
