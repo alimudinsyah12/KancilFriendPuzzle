@@ -6,23 +6,26 @@ Kancil's Friend Puzzle adalah sebuah game dimana pemain berperan sebagai seekor 
 
 # Project Scope🙋🏻‍♀️🙋🏻‍♂️:
 
--**Game Designer🎮:**
+**Game Designer🎮:**
 
 Bayu Ahmad Firdaus
 
--**Game Programmer🖥️ :**
+**Game Programmer🖥️ :**
 
 Alimudinsyah Alrasyid
 
--**Game Artist🎭:**
+**Game Artist🎭:**
 
 Rizal Ardiansyah
 
 # Reference or Influence
--**Level Design** = Swap Letters - Animal Names
--**Gameplay & Mechanic** = Super Booble Fruits
--**Art Style** = Buku Cerita anak-anak
--**Play Time** = 15-30 Menit
+**Level Design** = Swap Letters - Animal Names
+
+**Gameplay & Mechanic** = Super Booble Fruits
+
+**Art Style** = Buku Cerita anak-anak
+
+**Play Time** = 15-30 Menit
 
 # Kancil's Friend Puzzle
 Di sebuah hutan, hiduplah seekor kancil yang bernama Kiko. Kiko adalah kancil yang penasaran dan penuh semangat. Meskipun hidup di tengah hutan yang luas, Kiko merasa ingin tahu tentang teman-teman hewan lainnya. Namun, ada satu masalah: Kiko belum mengenal banyak huruf-huruf. Oleh karena itu, Kiko memutuskan untuk menjalani petualangan yang penuh dengan tantangan dan pembelajaran.
@@ -57,22 +60,24 @@ Orang tua yang ingin membantu anak-anak mereka dalam belajar huruf-huruf dan kos
 Pasar yang mencari solusi pendidikan digital dan permainan yang mendukung pembelajaran dapat melihat game ini sebagai pilihan yang baik.
 
 # Theme
--**Style** : Hyper Casual
--**Setting**: Hutan
--**Genre** : Puzzle, Education
+**Style** : Hyper Casual
+
+**Setting**: Hutan
+
+**Genre** : Puzzle, Education
 
 # Core Direction
--**Tema Colorfull**
--**Memperbanyak Puzzle Hewan untuk dipecahkan**
+**-Tema Colorfull**
+**-Memperbanyak Puzzle Hewan untuk dipecahkan**
 
 # Target Platform 🎮
--**Mobile 📱**
--**PC 💻**
+**Mobile 📱**
+**PC 💻**
 
 # Core Mechanic
--**Menyusun alfabet-alfabet untuk menyusun nama hewan**
--**Alfabet-alfabet keluar secara acak**
--**Pemain akan mengambil angka yang sesuai untuk di tempatkan pada posisi alfabet yang benar**
+**-Menyusun alfabet-alfabet untuk menyusun nama hewan**
+**-Alfabet-alfabet keluar secara acak**
+**-Pemain akan mengambil angka yang sesuai untuk di tempatkan pada posisi alfabet yang benar**
 
 # Screenshots🌆
 ## Main Menu
