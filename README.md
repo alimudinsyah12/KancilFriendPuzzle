@@ -83,9 +83,9 @@ Pasar yang mencari solusi pendidikan digital dan permainan yang mendukung pembel
 
 **-Pemain akan mengambil angka yang sesuai untuk di tempatkan pada posisi alfabet yang benar**
 
-# Screenshots🌆
-## Main Menu
-![mainmenu](https://user-images.githubusercontent.com/118440652/209903462-ccc3af46-76df-4e6b-b060-b24861e4fc69.PNG)
+# Gallery View🌆
+## Referensi Gameplay
+![1 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/2d65fb2c-987e-4d63-baf7-990e5f70996c)
 
 ## Players
 ![player mode](https://user-images.githubusercontent.com/118440652/209903496-ddfc7b9c-bdb7-4e0a-b5a3-63d9ba32ace3.PNG)
